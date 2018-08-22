@@ -33,6 +33,9 @@
     },
     "cordova-plugin-network-information": {
       "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
     }
   },
   "dependent_plugins": {
