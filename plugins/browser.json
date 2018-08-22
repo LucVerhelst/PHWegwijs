@@ -1,0 +1,46 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "be.provincieantwerpen.pauvl"
+    }
+  }
+}
